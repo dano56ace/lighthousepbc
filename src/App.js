@@ -307,7 +307,7 @@ function App() {
 
                     <iframe style={{ width: '100%', overflow: 'auto' }}
                       src="https://paper.xyz/checkout/4dc5ed08-e0ab-457c-bb5d-cef92084acf0"
-                      height={1000}
+                      height={1250}
                       frameborder="0"
                     >
                     </iframe>
