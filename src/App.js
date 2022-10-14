@@ -312,15 +312,6 @@ function App() {
                     >
                     </iframe>
                     <s.SpacerSmall/>
-                    <s.TextDescription
-                      style={{
-                        textAlign: "center",
-                        color: "var(--accent-text)",
-                      }}
-                    >
-                      Or Pay with a Credit Card
-                    </s.TextDescription>
-                    <s.SpacerSmall/>
                 
                     <s.TextTitle
               style={{
