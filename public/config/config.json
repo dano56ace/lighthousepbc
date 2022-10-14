@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x40A6033C606126e4a36237FCCB9839DCC1C4cC24",
+  "SCAN_LINK": "https://etherscan.io/address/0x40A6033C606126e4a36237FCCB9839DCC1C4cC24#code",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Lighthouse PBC",
+  "SYMBOL": "LHPB",
+  "MAX_SUPPLY": 45,
+  "WEI_COST": 11000000000000000000,
+  "DISPLAY_COST": 0.15,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/rubber-doug-genesis",
+  "SHOW_BACKGROUND": true
+}
