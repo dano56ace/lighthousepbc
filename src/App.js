@@ -306,7 +306,7 @@ function App() {
 
 
                     <iframe style={{ width: '100%', overflow: 'auto' }}
-                      src="https://gateway.ipfscdn.io/ipfs/QmPaVYdGue8zEXFKqrtVHpvzBvufM1DYzw5n1of3KVPG88/nft-drop.html?contract=0x40A6033C606126e4a36237FCCB9839DCC1C4cC24&chainId=1"
+                      src="https://paper.xyz/checkout/4dc5ed08-e0ab-457c-bb5d-cef92084acf0"
                       height={600}
                       frameborder="0"
                     >
@@ -321,11 +321,7 @@ function App() {
                       Or Pay with a Credit Card
                     </s.TextDescription>
                     <s.SpacerSmall/>
-                    <CrossmintPayButton
-                clientId="6284972a-5bcb-4041-aabc-229576848ade"
-                mintConfig={{ "type":"thirdweb-drop","totalPrice":"0.15", "quantity":1}}
-            />
-                    <s.SpacerSmall />
+                
                     <s.TextTitle
               style={{
                 textAlign: "center",
